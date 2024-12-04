@@ -132,8 +132,11 @@ print(str(response))
 ```
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/217be641-8b2e-49c4-85ce-1916aa80302f)
+
 ![image](https://github.com/user-attachments/assets/7f539132-54bf-41f2-a705-8b510c4beee3)
 
+![image](https://github.com/user-attachments/assets/de29cde6-aad8-419d-bbca-322a3d44f5c9)
 
 ## RESULT:
 The multidocument retrieval agent was successfully designed and implemented using LlamaIndex. The agent demonstrated its capability to retrieve and synthesize information from multiple academic papers, answering complex queries with concise, relevant, and accurate responses.
